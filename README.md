@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="devicon.min.css">
 
 
- <i class="devicon-java-plain colored"></i>
+<i class="devicon-java-plain colored"></i>
           
 
 <!--
