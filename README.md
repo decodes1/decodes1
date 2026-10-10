@@ -1,6 +1,7 @@
+<!-->
 <link rel="stylesheet" href="devicon.min.css">
 
-<!--
+
 <h3><b>Languages and Tools:</b></h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" align="left"/>
@@ -9,5 +10,5 @@
 -->
 
 <div align="center">
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+    <img src="example.svg" width="100%" height="100%" alt="languages and tools">
 </div>
