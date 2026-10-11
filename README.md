@@ -1,5 +1,7 @@
 # decodes1
 Beginner programmer yeah yeah
+</br>
+Learning C++ atm and devOps
 ## Languages & Tools
 <img align="left" title="Java" alt="java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" title="Lua" alt="lua" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
